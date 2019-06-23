@@ -1,5 +1,5 @@
 # productstore
-A simple productstore application built with Spring Boot.
+A simple product store application built with Spring Boot.
 
 # What I Learned
 * Using gradle as a build tool.
